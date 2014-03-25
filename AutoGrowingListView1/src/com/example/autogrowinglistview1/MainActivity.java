@@ -51,6 +51,39 @@ public class MainActivity extends Activity {
 			arr.add("" + i);
 
 		}
+		
+		for (int i = 0; i < 5; i++) {
+			arr.add("" + i);
+
+		}
+		for (int i = 0; i < 5; i++) {
+			arr.add("" + i);
+
+		}
+		for (int i = 0; i < 5; i++) {
+			arr.add("" + i);
+
+		}
+		for (int i = 0; i < 5; i++) {
+			arr.add("" + i);
+
+		}
+		for (int i = 0; i < 5; i++) {
+			arr.add("" + i);
+
+		}
+		for (int i = 0; i < 5; i++) {
+			arr.add("" + i);
+
+		}
+		for (int i = 0; i < 5; i++) {
+			arr.add("" + i);
+
+		}
+		for (int i = 0; i < 5; i++) {
+			arr.add("" + i);
+
+		}
 
 	}
 
